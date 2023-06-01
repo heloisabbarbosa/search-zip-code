@@ -8,7 +8,7 @@ Busca CEP é um projeto feito com a ajuda do FabricadeApps, com o obejtivo de in
 
 A aplicação consiste em um site onde o usuário pode digitar seu CEP e através de uma API o site vai trazer a localização de acordo com o que foi pesquisado.
 
-## 🚀 utilizadas
+## 🚀 Tecnologias utilizadas
 ## Apps
 - VsCode
 
